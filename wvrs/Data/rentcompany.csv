@@ -1,0 +1,4 @@
+TranNo,TranDt,CompanyID,VehicleRegNo,DaysRented,ReturnDt,ActualReturnDtActualRentDays,RentAmount,VatAmount,TotalRent,DamageCost,TotalCost
+tran0002,10/18/2020,comp0001,pb0870,4,10/22/2020,10/20/2020,2,200,30,230,0,230
+t008,10/18/2020,comp0003,pb0870,3,10/21/2020,,0,0,0,0,0,0
+t009,10/18/2020,comp101,dl2345,4,10/22/2020,10/20/2020,2,350,52.5,402.5,300,702.5

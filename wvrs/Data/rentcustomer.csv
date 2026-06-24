@@ -1,0 +1,3 @@
+TranNo,TranDt,CustomerID,VehicleRegNo,DaysRented,ReturnDt,ActualReturnDt,ActualRentDays,RentAmount,VatAmount,TotalRent,DamageCost,TotalCost
+t006,10/18/2020,cust0002,AS651966,4,10/22/2020,10/22/2020,4,300,36,336,0,336
+t003,10/18/2020,cust0007,pb0870,3,10/21/2020,,0,0,0,0,0,0

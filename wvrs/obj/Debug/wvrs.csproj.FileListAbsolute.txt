@@ -1,0 +1,66 @@
+D:\visual studio 2017 projects\wvrs\wvrs\bin\Debug\wvrs.exe.config
+D:\visual studio 2017 projects\wvrs\wvrs\bin\Debug\wvrs.exe
+D:\visual studio 2017 projects\wvrs\wvrs\bin\Debug\wvrs.pdb
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.csprojAssemblyReference.cache
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.Form1.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.Properties.Resources.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.csproj.GenerateResource.cache
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.csproj.CoreCompileInputs.cache
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.exe
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.pdb
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.createuser.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.menumdi.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AddVehicle.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.EditVehicle.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.DeleteVehicle.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.ViewVehicle.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AddTouristCust.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AddAgency.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.DeleteTouristCust.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.DeleteAgency.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AddUser.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.DeleteUser.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.ChangePassword.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AllVehList.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AllCustList.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AllAgencyList.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.RentToCust.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.RentToAgency.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.ReturnFromCust.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.ReturnFromAgency.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.AllRentedVehList.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.VehRentedByCustList.resources
+D:\visual studio 2017 projects\wvrs\wvrs\obj\Debug\wvrs.VehRentedByAgencyList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\bin\Debug\wvrs.exe.config
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\bin\Debug\wvrs.exe
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\bin\Debug\wvrs.pdb
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.csprojAssemblyReference.cache
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AddAgency.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AddTouristCust.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AddUser.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AddVehicle.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AllAgencyList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AllCustList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AllRentedVehList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.AllVehList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.ChangePassword.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.createuser.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.DeleteAgency.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.DeleteTouristCust.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.DeleteUser.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.DeleteVehicle.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.EditVehicle.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.Form1.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.menumdi.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.Properties.Resources.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.RentToAgency.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.RentToCust.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.ReturnFromAgency.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.ReturnFromCust.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.VehRentedByAgencyList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.VehRentedByCustList.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.ViewVehicle.resources
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.csproj.GenerateResource.cache
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.csproj.CoreCompileInputs.cache
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.exe
+D:\CURRENT ASSIGNMENT WORK\Ppr3xu7cj7 - locus rag - 3000\wvrs\wvrs\obj\Debug\wvrs.pdb

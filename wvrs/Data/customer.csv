@@ -1,0 +1,4 @@
+CustomerID,FullName,DrivingLicence,DateOfBirth,Address,MobileNo,Email,EmergencyAddress,EmergencyMobileNo
+cust0001,Rambo,Ca764-1966,21/07/1977,2334 Sector 25 Mt. Vincent Fort CA,7654324533,rambo@yahoo.com,2334 Sector 25 Mt. Vincent Fort CA,98765455677
+cust0002,Raju Shrivastav,DL466-2000,08/04/1999,abc Saint Vincent Park,65436665,raju2000@gmail.com,saint vincent park ,76435666
+cust0007,gurinder,dl6543,08/04/1967,2449 sunny view ca,643355675,gurinder2000@gmail.com,2449 sunny view ca,3566543334

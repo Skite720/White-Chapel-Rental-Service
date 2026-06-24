@@ -1,0 +1,4 @@
+VehRegNo,VehType,EngineSize,Color,Model,Make,Mileage,FuelType,GearType,NoOfDoors,ServiceHist,SafetyInfo,Length,Width,Height,VehRate,IsRented,IsReserved
+pb0870,MiniBus9,2000cc,blue,sa2356,mercedes,15,Diesel,Automatic,3,maintenance done in jan 2020  next due in dec 2020,air bags  abs,250,120,150,100,True,False
+AS651966,Car,800CC,GREEN,Maruti 800,Suzuki,30,Electric,Automatic,4,Yearly service is done in July month,Car have ABS  Air bags,90,60,80,75,False,False
+dl2345,VanBig,3000cc,green,e2689,Leyland,22,Hybrid,Automatic,4,good condition,abs  air bags,190,80,140,175,False,False

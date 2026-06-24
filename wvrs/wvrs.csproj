@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E66C3140-34E4-4678-8772-7F9C23F89359}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>wvrs</RootNamespace>
+    <AssemblyName>wvrs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>wvrsicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAgency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAgency.Designer.cs">
+      <DependentUpon>AddAgency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTouristCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTouristCust.Designer.cs">
+      <DependentUpon>AddTouristCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVehicle.Designer.cs">
+      <DependentUpon>AddVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgencyCompany.cs" />
+    <Compile Include="AllAgencyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllAgencyList.Designer.cs">
+      <DependentUpon>AllAgencyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllCustList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllCustList.Designer.cs">
+      <DependentUpon>AllCustList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllRentedVehList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllRentedVehList.Designer.cs">
+      <DependentUpon>AllRentedVehList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllVehList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllVehList.Designer.cs">
+      <DependentUpon>AllVehList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createuser.Designer.cs">
+      <DependentUpon>createuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAgency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteAgency.Designer.cs">
+      <DependentUpon>DeleteAgency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteTouristCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteTouristCust.Designer.cs">
+      <DependentUpon>DeleteTouristCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteUser.Designer.cs">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteVehicle.Designer.cs">
+      <DependentUpon>DeleteVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditVehicle.Designer.cs">
+      <DependentUpon>EditVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menumdi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menumdi.Designer.cs">
+      <DependentUpon>menumdi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RentCompany.cs" />
+    <Compile Include="RentCustomer.cs" />
+    <Compile Include="RentToAgency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentToAgency.Designer.cs">
+      <DependentUpon>RentToAgency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RentToCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentToCust.Designer.cs">
+      <DependentUpon>RentToCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnFromAgency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnFromAgency.Designer.cs">
+      <DependentUpon>ReturnFromAgency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnFromCust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnFromCust.Designer.cs">
+      <DependentUpon>ReturnFromCust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TouristCust.cs" />
+    <Compile Include="user.cs" />
+    <Compile Include="Vehicle.cs" />
+    <Compile Include="VehRentedByAgencyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VehRentedByAgencyList.Designer.cs">
+      <DependentUpon>VehRentedByAgencyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VehRentedByCustList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VehRentedByCustList.Designer.cs">
+      <DependentUpon>VehRentedByCustList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewVehicle.Designer.cs">
+      <DependentUpon>ViewVehicle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddAgency.resx">
+      <DependentUpon>AddAgency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTouristCust.resx">
+      <DependentUpon>AddTouristCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVehicle.resx">
+      <DependentUpon>AddVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllAgencyList.resx">
+      <DependentUpon>AllAgencyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllCustList.resx">
+      <DependentUpon>AllCustList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllRentedVehList.resx">
+      <DependentUpon>AllRentedVehList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllVehList.resx">
+      <DependentUpon>AllVehList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createuser.resx">
+      <DependentUpon>createuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAgency.resx">
+      <DependentUpon>DeleteAgency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteTouristCust.resx">
+      <DependentUpon>DeleteTouristCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteUser.resx">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteVehicle.resx">
+      <DependentUpon>DeleteVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditVehicle.resx">
+      <DependentUpon>EditVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menumdi.resx">
+      <DependentUpon>menumdi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RentToAgency.resx">
+      <DependentUpon>RentToAgency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentToCust.resx">
+      <DependentUpon>RentToCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnFromAgency.resx">
+      <DependentUpon>ReturnFromAgency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnFromCust.resx">
+      <DependentUpon>ReturnFromCust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehRentedByAgencyList.resx">
+      <DependentUpon>VehRentedByAgencyList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VehRentedByCustList.resx">
+      <DependentUpon>VehRentedByCustList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewVehicle.resx">
+      <DependentUpon>ViewVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wvrslogo.png" />
+    <Content Include="wvrsicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
